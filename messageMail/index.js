@@ -6,7 +6,7 @@ const historyOrderMessage = ({ nameUser, id, nameCourse, payment_date, total_pri
       <style>
         body {
           font-family: Arial, sans-serif;
-          margin: 10px;
+          margin: 20px;
         }
   
         .container {
